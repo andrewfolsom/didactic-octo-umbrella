@@ -1,7 +1,7 @@
 # Operating Systems
 
 - Check syllabus online
-- [Buy book][www.chegg.com]
+- [Buy book](www.chegg.com)
 - Read Chapter 1
 
 ## Chapter 1.1
